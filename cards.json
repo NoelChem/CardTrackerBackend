@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Karte 1",
+        "card_type": "Typ 1",
+        "rarity": "Selten",
+        "version": "Standard",
+        "is_foil": true,
+        "is_full_art": false
+    },
+    {
+        "id": 2,
+        "name": "Karte 2",
+        "card_type": "Typ 2",
+        "rarity": "Uncommon",
+        "version": "Promo",
+        "is_foil": false,
+        "is_full_art": true
+    }
+]
